@@ -1,7 +1,6 @@
 <img width="6936" height="280" alt="image" src="https://github.com/user-attachments/assets/9488b306-4f02-4e5c-9059-9e66c349aece" /># ML_Techniques_on_phia_hiv_child-analysis
 
-INTRODUCTION
-
+**INTRODUCTION**
 Human immunodeficiency virus (HIV) is a virus that targets T helper cells, also known as CD4 cells, which are specific immune system cells when it infects a person. The virus multiplies and gradually destroys the cells that it calls home, weakening the body's defenses against infections. Sexual contact with injectable drugs, sharing needles among injectees, blood transfusions, and mother-to-child transmission (MTCT) through breast milk or before or during delivery are the main ways that HIV is spread. HIV infection is a widespread, sexually transmitted illness that affects all ages and genders in Kenya. It is mostly driven by sexual activity. There were 660,000 children listed as AIDS orphans as of 2015. Nonetheless, members of important communities have an abnormally high rate of new infections. According to estimates from 2020, these groups account for 30% of all new HIV infections in Kenya each year.
 
 **General Objective**
@@ -14,13 +13,12 @@ Human immunodeficiency virus (HIV) is a virus that targets T helper cells, also 
 >> To determine the relationship between demographic factors (such as age and gender) and the HIV status of children in Kenya.
 <img width="2172" height="743" alt="image" src="https://github.com/user-attachments/assets/9a9782e1-4fd2-438a-ab68-319fd280e266" />
 
-SIGNIFICANCE OF THE STUDY<img width="1346" height="175" alt="image" src="https://github.com/user-attachments/assets/dc6b62c2-969f-4b93-a602-248014e06f97" />
+**SIGNIFICANCE OF THE STUDY**
 >> The study aims to bridge the knowledge gap by assessing the various predictors that can likely be the most risk factors contributing to the final HIV status of a child.
 >> The study lies in its potential to inform healthcare experts on advising parents and households on precautions and measures in handling children in relation to HIV status like infected individual to enroll to medication and frequent health consultation, regular exercise and healthy diet to prevent the progression of other HIV related complications.
 >> The study also Contribute to academic knowledge by providing statistical evidence by utilizing statistical test in studying the provided predictor variables.
-<img width="5561" height="301" alt="image" src="https://github.com/user-attachments/assets/48b67b1b-badb-4b4a-9f45-0e46d229661a" />
 
-RESULTS<img width="402" height="175" alt="image" src="https://github.com/user-attachments/assets/ffdd8cf9-b546-4a88-8b21-5cb592c45537" />
+**RESULTS**
 
 **Strength and direction of the risk factors on the HIV status of children.**
 Used Spearman rank test to assess the strength and direction of the explanatory variables with the response variable, using the output we found that Pedtri90 tend to have a perfect correlation with HIV status of a child.
